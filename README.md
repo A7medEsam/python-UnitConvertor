@@ -12,3 +12,5 @@ Libraries used :
 
 how to make it work : 
 libraries listed above must be installed to run the program
+
+to install PyQt5 run : pip install PyQt5
